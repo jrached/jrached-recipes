@@ -1,0 +1,27 @@
+
+.img_container {
+    background-color: lightgreen;
+    /* border: 2px solid red; */
+}
+
+.image {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin-top: 0px;
+    /* border: 2px solid red; */
+}
+
+.title {
+    display: inline-block;
+    text-align: center;
+    margin-left: 200px;
+    padding: 0px;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 0px;
+    /* border: 2px solid red; */
+}
