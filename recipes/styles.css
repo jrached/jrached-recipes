@@ -1,3 +1,15 @@
+body {
+    border-bottom: 100vh solid rgb(238, 238, 163);
+}
+
+li {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
 
 .img_container {
     background-color: rgb(96, 122, 47);
@@ -36,11 +48,4 @@
     font-size: 25px;
 }
 
-li {
-    margin-bottom: 5px;
-    font-size: 20px;
-}
 
-p {
-    font-size: 20px;
-}
