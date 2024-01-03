@@ -1,6 +1,6 @@
 
 .img_container {
-    background-color: lightgreen;
+    background-color: rgb(96, 122, 47);
     /* border: 2px solid red; */
 }
 
@@ -14,14 +14,33 @@
 
 .title {
     display: inline-block;
-    text-align: center;
-    margin-left: 200px;
-    padding: 0px;
+    color: rgb(238, 238, 163);
     font-size: 50px;
     font-weight: 700;
-    margin-top: 0px;
-    margin-bottom: 0px;
     margin-left: 20px;
-    margin-right: 0px;
     /* border: 2px solid red; */
+}
+
+.content {
+    background-color: rgb(238, 238, 163);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    border-left: 150px solid rgb(238, 238, 163);
+    border-right: 150px solid rgb(238, 238, 163);
+    padding: 5px
+}
+
+.subtitle {
+    color:rgb(96, 122, 47);
+    font-size: 25px;
+}
+
+li {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
 }
