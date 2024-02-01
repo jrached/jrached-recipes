@@ -1,7 +1,5 @@
 # jrached-recipes
 
-Small recipe website storing family recipes.
+Small recipe website storing family recipes. 
 
-Live preview: 
-
-<a href="https://jrached.github.io/jrached-recipes/"></a>
+<a href="https://jrached.github.io/jrached-recipes/">Live Preview</a>
