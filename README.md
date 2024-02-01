@@ -1,3 +1,7 @@
 # jrached-recipes
 
-Will make small HTML (Hypertext Markup Language) recipe website and store family recipes probably.
+Small recipe website storing family recipes.
+
+Live preview: 
+
+<a href="https://jrached.github.io/jrached-recipes/"></a>
